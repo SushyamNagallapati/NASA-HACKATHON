@@ -1,0 +1,54 @@
+:root{
+  --circle: #97A48F; /* sage green like your mock */
+  --text: #0b0b0b;
+  --stroke: #ffffff;
+}
+
+*{ box-sizing: border-box }
+html,body{ height:100% }
+body{
+  margin:0;
+  background:#fff;
+  color:var(--text);
+  font-family:"Inter", system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+}
+
+/* layout */
+.stage{
+  min-height:100%;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap: clamp(24px, 6vh, 56px);
+  padding: 40px 16px;
+}
+
+/* round mark */
+.mark{
+  width: clamp(220px, 38vw, 440px);
+  aspect-ratio: 1 / 1;
+  background: var(--circle);
+  border-radius: 50%;
+  display:grid;
+  place-items:center;
+}
+
+/* svg styling */
+.eye{ width: 78%; height: auto; }
+.stroke{
+  fill: none;
+  stroke: var(--stroke);
+  stroke-width: 16;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* wordmark */
+.wordmark{
+  margin:0;
+  font-weight:500;
+  font-size: clamp(28px, 5vw, 56px);
+  letter-spacing: 0.02em;
+  text-align:center;
+}

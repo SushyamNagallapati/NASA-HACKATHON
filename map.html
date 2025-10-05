@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Map – Search & Activity</title>
+
+    <!-- Inter font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./css/map.css" />
+  </head>
+  <body>
+    <div class="map-canvas" role="img" aria-label="Map of Ottawa"></div>
+
+    <header class="toolbar">
+      <div class="search">
+        <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path
+            d="M11 19a8 8 0 1 1 5.29-14.05A8 8 0 0 1 11 19zm9.3 2.3a1 1 0 0 1-1.4 0l-4.2-4.2a1 1 0 1 1 1.4-1.4l4.2 4.2a1 1 0 0 1 0 1.4z"
+            fill="currentColor"
+          />
+        </svg>
+        <input
+          type="text"
+          placeholder="Search"
+          aria-label="Search location or park"
+        />
+      </div>
+
+      <button class="activity-btn" type="button">Pick Your Activity</button>
+    </header>
+  </body>
+</html>
