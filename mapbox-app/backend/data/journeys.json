@@ -1,0 +1,717 @@
+[
+  {
+    "start": "Waterloo, Quebec, Canada",
+    "end": "Toronto, Ontario, Canada",
+    "latitude": [
+      45.344097,
+      43.647938
+    ],
+    "longitude": [
+      -72.51632,
+      -79.38355
+    ],
+    "timestamp": "2025-10-05T04:55:29.887Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T04:56:38.158Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T05:00:35.004Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T05:01:08.956Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T05:04:11.135Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T05:05:26.723Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Toronto, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.647938
+    ],
+    "longitude": [
+      -79.38355,
+      -79.38355
+    ],
+    "timestamp": "2025-10-05T05:05:59.058Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T05:13:05.320Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T05:17:35.352Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T05:17:57.171Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Waterloo, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.465187
+    ],
+    "longitude": [
+      -79.38355,
+      -80.52237
+    ],
+    "timestamp": "2025-10-05T05:19:02.956Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T05:24:59.027Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T05:32:09.576Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T13:40:23.069Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T13:42:05.070Z"
+  },
+  {
+    "start": "Toronto, Ontario, Canada",
+    "end": "Mississauga, Ontario, Canada",
+    "latitude": [
+      43.647938,
+      43.589054
+    ],
+    "longitude": [
+      -79.38355,
+      -79.642784
+    ],
+    "timestamp": "2025-10-05T13:59:02.975Z"
+  },
+  {
+    "start": "Waterloo, Ontario, Canada",
+    "end": "Toronto, Ontario, Canada",
+    "latitude": [
+      43.465187,
+      43.647938
+    ],
+    "longitude": [
+      -80.52237,
+      -79.38355
+    ],
+    "timestamp": "2025-10-05T14:03:30.832Z"
+  },
+  {
+    "start": "Waterloo, Ontario, Canada",
+    "end": "Toronto, Ontario, Canada",
+    "latitude": [
+      43.465187,
+      43.647938
+    ],
+    "longitude": [
+      -80.52237,
+      -79.38355
+    ],
+    "timestamp": "2025-10-05T14:23:42.320Z"
+  },
+  {
+    "start": "Trails near Vermont Park - start",
+    "end": "Trails near Vermont Park - end",
+    "latitude": [
+      43.4685437,
+      43.4717769
+    ],
+    "longitude": [
+      -80.542739,
+      -80.5430577
+    ],
+    "timestamp": "2025-10-05T14:50:08.221Z"
+  },
+  {
+    "start": "Trail: Mill Run Trail - start",
+    "end": "Trail: Mill Run Trail - end",
+    "latitude": [
+      43.4110403,
+      43.4114438
+    ],
+    "longitude": [
+      -80.3441225,
+      -80.3443648
+    ],
+    "timestamp": "2025-10-05T15:05:24.876Z"
+  },
+  {
+    "start": "Trail: Leslie Street Spit Trail - start",
+    "end": "Trail: Leslie Street Spit Trail - end",
+    "latitude": [
+      43.6258018,
+      43.6258025
+    ],
+    "longitude": [
+      -79.332139,
+      -79.3313451
+    ],
+    "timestamp": "2025-10-05T15:10:58.923Z"
+  },
+  {
+    "start": "Trail: Forwell Trail - start",
+    "end": "Trail: Forwell Trail - end",
+    "latitude": [
+      43.4914157,
+      43.4889107
+    ],
+    "longitude": [
+      -80.5276511,
+      -80.5228871
+    ],
+    "timestamp": "2025-10-05T15:18:24.022Z"
+  },
+  {
+    "start": "Trail: Waterloop - start",
+    "end": "Trail: Waterloop - end",
+    "latitude": [
+      43.4892804,
+      43.4886879
+    ],
+    "longitude": [
+      -80.5416154,
+      -80.54306
+    ],
+    "timestamp": "2025-10-05T15:19:16.286Z"
+  },
+  {
+    "start": "Trail: Laurel Trail - start",
+    "end": "Trail: Laurel Trail - end",
+    "latitude": [
+      43.4896448,
+      43.4840111
+    ],
+    "longitude": [
+      -80.5666099,
+      -80.5642443
+    ],
+    "timestamp": "2025-10-05T15:19:40.231Z"
+  },
+  {
+    "start": "Trail: Mader's Lane - start",
+    "end": "Trail: Mader's Lane - end",
+    "latitude": [
+      43.4778005,
+      43.4792672
+    ],
+    "longitude": [
+      -80.414481,
+      -80.4090747
+    ],
+    "timestamp": "2025-10-05T15:26:00.790Z"
+  },
+  {
+    "start": "Trail: Community Trail - start",
+    "end": "Trail: Community Trail - end",
+    "latitude": [
+      43.47074,
+      43.4702371
+    ],
+    "longitude": [
+      -80.4404592,
+      -80.4356
+    ],
+    "timestamp": "2025-10-05T15:26:03.976Z"
+  },
+  {
+    "start": "Trail: Mader's Lane - start",
+    "end": "Trail: Mader's Lane - end",
+    "latitude": [
+      43.4778005,
+      43.4792672
+    ],
+    "longitude": [
+      -80.414481,
+      -80.4090747
+    ],
+    "timestamp": "2025-10-05T15:26:12.850Z"
+  },
+  {
+    "start": "Trail: Trans Canada Trail - start",
+    "end": "Trail: Trans Canada Trail - end",
+    "latitude": [
+      43.4338834,
+      43.4290871
+    ],
+    "longitude": [
+      -80.4743134,
+      -80.4687856
+    ],
+    "timestamp": "2025-10-05T15:28:02.130Z"
+  },
+  {
+    "start": "Trail: Community Trail - start",
+    "end": "Trail: Community Trail - end",
+    "latitude": [
+      43.47084,
+      43.4718097
+    ],
+    "longitude": [
+      -80.4949733,
+      -80.4928928
+    ],
+    "timestamp": "2025-10-05T15:45:41.534Z"
+  },
+  {
+    "start": "Trail: Keats Way Trail - start",
+    "end": "Trail: Keats Way Trail - end",
+    "latitude": [
+      43.4570955,
+      43.4554719
+    ],
+    "longitude": [
+      -80.5653836,
+      -80.5701481
+    ],
+    "timestamp": "2025-10-05T15:48:47.325Z"
+  },
+  {
+    "start": "Trail: Madum Lane - start",
+    "end": "Trail: Madum Lane - end",
+    "latitude": [
+      13.0828503,
+      13.0830782
+    ],
+    "longitude": [
+      80.2512961,
+      80.2498862
+    ],
+    "timestamp": "2025-10-05T15:56:36.087Z"
+  },
+  {
+    "start": "Trail: Delta Street - start",
+    "end": "Trail: Delta Street - end",
+    "latitude": [
+      43.4392122,
+      43.4391308
+    ],
+    "longitude": [
+      -80.468361,
+      -80.4719378
+    ],
+    "timestamp": "2025-10-05T15:57:19.070Z"
+  },
+  {
+    "start": "Trail: Community Trail - start",
+    "end": "Trail: Community Trail - end",
+    "latitude": [
+      43.47084,
+      43.4718097
+    ],
+    "longitude": [
+      -80.4949733,
+      -80.4928928
+    ],
+    "timestamp": "2025-10-05T16:17:16.865Z"
+  },
+  {
+    "start": "Trail: Community Trail - start",
+    "end": "Trail: Community Trail - end",
+    "latitude": [
+      43.47084,
+      43.4718097
+    ],
+    "longitude": [
+      -80.4949733,
+      -80.4928928
+    ],
+    "timestamp": "2025-10-05T16:17:23.932Z"
+  },
+  {
+    "start": "Trail: Main Path - start",
+    "end": "Trail: Main Path - end",
+    "latitude": [
+      43.4739285,
+      43.4739107
+    ],
+    "longitude": [
+      -80.5447544,
+      -80.5447846
+    ],
+    "timestamp": "2025-10-05T16:17:35.100Z"
+  },
+  {
+    "start": "Trail: Main Path - start",
+    "end": "Trail: Main Path - end",
+    "latitude": [
+      43.4739285,
+      43.4739107
+    ],
+    "longitude": [
+      -80.5447544,
+      -80.5447846
+    ],
+    "timestamp": "2025-10-05T16:18:50.093Z"
+  },
+  {
+    "start": "Trail: Forwell Trail - start",
+    "end": "Trail: Forwell Trail - end",
+    "latitude": [
+      43.4914157,
+      43.4889107
+    ],
+    "longitude": [
+      -80.5276511,
+      -80.5228871
+    ],
+    "timestamp": "2025-10-05T16:23:44.787Z"
+  },
+  {
+    "start": "Trail: Community Trail - start",
+    "end": "Trail: Community Trail - end",
+    "latitude": [
+      43.47084,
+      43.4718097
+    ],
+    "longitude": [
+      -80.4949733,
+      -80.4928928
+    ],
+    "timestamp": "2025-10-05T17:44:22.913Z"
+  },
+  {
+    "start": "Trail: Community Trail - start",
+    "end": "Trail: Community Trail - end",
+    "latitude": [
+      43.47084,
+      43.4718097
+    ],
+    "longitude": [
+      -80.4949733,
+      -80.4928928
+    ],
+    "timestamp": "2025-10-05T17:44:23.123Z"
+  },
+  {
+    "start": "Trail: Trans Canada/Market Trail - start",
+    "end": "Trail: Trans Canada/Market Trail - end",
+    "latitude": [
+      43.4873845,
+      43.4880001
+    ],
+    "longitude": [
+      -80.5463033,
+      -80.5458611
+    ],
+    "timestamp": "2025-10-05T18:07:37.018Z"
+  },
+  {
+    "start": "Trail: Path 1 West - start",
+    "end": "Trail: Path 1 West - end",
+    "latitude": [
+      43.4687461,
+      43.4685437
+    ],
+    "longitude": [
+      -80.5421274,
+      -80.542739
+    ],
+    "timestamp": "2025-10-05T18:35:59.378Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T18:36:36.868Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T18:37:10.921Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T18:38:04.445Z"
+  },
+  {
+    "start": "Trail: Pinball 🟢 - start",
+    "end": "Trail: Pinball 🟢 - end",
+    "latitude": [
+      43.5932392,
+      43.5935586
+    ],
+    "longitude": [
+      -80.2612105,
+      -80.2598772
+    ],
+    "timestamp": "2025-10-05T18:39:07.565Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T18:39:25.508Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T18:46:32.514Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T18:48:10.522Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T18:52:07.523Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T18:54:42.792Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T19:30:52.581Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T19:34:59.214Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T19:58:48.996Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T20:08:21.826Z"
+  },
+  {
+    "start": "Trail: Phoenix ◆ - start",
+    "end": "Trail: Phoenix ◆ - end",
+    "latitude": [
+      43.592669,
+      43.5897513
+    ],
+    "longitude": [
+      -80.262293,
+      -80.2670561
+    ],
+    "timestamp": "2025-10-05T20:08:54.630Z"
+  }
+]

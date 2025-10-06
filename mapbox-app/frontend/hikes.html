@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Outdoor Planner – Hiking</title>
+
+    <link rel="icon" href="data:," />
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v3.6.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.1/mapbox-gl-geocoder.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="hikes.css" />
+  </head>
+  <body>
+    <div class="topbar">
+      <div class="search-pill" id="search-pill">
+        <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path
+            d="M11 19a8 8 0 1 1 5.29-14.05A8 8 0 0 1 11 19zm9.3 2.3a1 1 0 0 1-1.4 0l-4.2-4.2a1 1 0 1 1 1.4-1.4l4.2 4.2a1 1 0 0 1 0 1.4z"
+            fill="currentColor"
+          />
+        </svg>
+        <div class="step-chip" id="step-chip">Where to hike?</div>
+        <div id="geocoder"></div>
+      </div>
+      <button id="activity-btn" class="activity-pill" type="button">
+        Pick Your Activity
+      </button>
+    </div>
+
+    <div id="map" class="map"></div>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+    <script
+      src="https://api.mapbox.com/mapbox-gl-js/v3.6.0/mapbox-gl.js"
+      defer
+    ></script>
+    <script
+      src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.1/mapbox-gl-geocoder.min.js"
+      defer
+    ></script>
+    <script src="config.js" defer></script>
+    <script src="hikes.js" defer></script>
+  </body>
+</html>

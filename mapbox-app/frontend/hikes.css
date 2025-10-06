@@ -1,0 +1,53 @@
+:root{
+  --pill:#7f8f77; --pillText:#fff;
+  --cta:#8ea07e;  --ctaText:#fff;
+}
+*{ box-sizing:border-box }
+html,body{ height:100% }
+body{ margin:0; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+.map{ position:absolute; inset:0; z-index:0; }
+
+.topbar{
+  position:absolute; z-index:1000;
+  top:18px; left:18px; right:18px;
+  display:flex; align-items:center; justify-content:space-between; gap:18px;
+  pointer-events:none;
+}
+.search-pill{
+  flex:1 1 auto; max-width:64vw; min-height:68px;
+  background:var(--pill); border-radius:999px;
+  display:flex; align-items:center; gap:12px;
+  padding:10px 16px 10px 18px;
+  box-shadow:0 10px 26px rgba(0,0,0,.18);
+  pointer-events:auto;
+}
+.search-icon{ width:28px; height:28px; color:var(--pillText); opacity:.95; }
+.step-chip{ background:rgba(255,255,255,.18); color:#fff; font-weight:800; font-size:13px; padding:6px 10px; border-radius:999px; }
+#geocoder{ flex:1 1 auto; min-width:220px; }
+
+.mapboxgl-ctrl-geocoder{ width:100%; background:transparent; box-shadow:none; border-radius:999px; }
+.mapboxgl-ctrl-geocoder--input{ background:transparent; color:var(--pillText); caret-color:var(--pillText); font-weight:600; font-size:18px; outline:none; }
+.mapboxgl-ctrl-geocoder--input::placeholder{ color:rgba(255,255,255,.95); }
+.mapboxgl-ctrl-geocoder .suggestions{ z-index:2000 !important; }
+.mapboxgl-ctrl-geocoder--icon, .mapboxgl-ctrl-geocoder--icon-search{ display:none; }
+
+.activity-pill{
+  flex:0 0 auto; height:68px; padding:0 24px; border:0; border-radius:999px;
+  background:var(--cta); color:var(--ctaText);
+  font-weight:800; font-size:20px; white-space:nowrap;
+  box-shadow:0 10px 26px rgba(0,0,0,.18);
+  cursor:pointer; pointer-events:auto;
+}
+
+.toast{
+  position:absolute; left:50%; transform:translateX(-50%);
+  top:14px; z-index:1500; background:#111; color:#fff;
+  border-radius:10px; padding:10px 14px; font: 500 14px system-ui;
+  display:none;
+}
+
+@media (max-width:900px){
+  .topbar{ flex-direction:column; align-items:stretch; }
+  .search-pill{ max-width:none; }
+  .activity-pill{ align-self:flex-end; height:56px; font-size:16px; }
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>HorusCast – Trails</title>
+
+    <!-- Mapbox GL CSS -->
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v3.6.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="map.css" />
+  </head>
+  <body>
+    <!-- Top bar -->
+    <div class="topbar">
+      <div class="pill">
+        <div class="label">Search</div>
+        <div id="geocoder"></div>
+      </div>
+
+      <div class="pill pill--date">
+        <label for="date-input">Date</label>
+        <input id="date-input" type="date" />
+      </div>
+    </div>
+
+    <!-- Map canvas -->
+    <div id="map" class="map"></div>
+
+    <!-- Bottom sheet (NASA data) -->
+    <div id="sheet-scrim" class="sheet-scrim" aria-hidden="true"></div>
+    <aside id="sheet" class="sheet" aria-hidden="true">
+      <header class="sheet__hdr">
+        <div>
+          <div id="sheet-title" class="sheet__title">Trail</div>
+          <div id="sheet-sub" class="sheet__sub">—</div>
+        </div>
+        <button id="sheet-close" class="sheet__close" aria-label="Close">
+          ✕
+        </button>
+      </header>
+      <div id="sheet-body" class="sheet__body">Loading…</div>
+    </aside>
+
+    <!-- Tiny toast -->
+    <div id="toast" class="toast" hidden></div>
+
+    <!-- Mapbox GL (Geocoder loaded inside map.js with fallbacks) -->
+    <script
+      src="https://api.mapbox.com/mapbox-gl-js/v3.6.0/mapbox-gl.js"
+      defer
+    ></script>
+
+    <script src="config.js" defer></script>
+    <script src="map.js" defer></script>
+  </body>
+</html>
