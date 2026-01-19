@@ -7,23 +7,23 @@ HorusCast blends NASA climate data, OpenStreetMap trails, and Mapbox maps to hel
 
 ## ✨ Features
 
-- **Long-Term Weather Predictions** — explore climate projections out to **2100** (via external datasets).
-- **Hyper-Local, Trail-Specific** — click a trail to see conditions at that spot.
-- **Interactive Map** — smooth search and explore experience powered by **Mapbox GL JS**.
-- **Wildlife & Safety** — room for location-aware alerts (extensible).
-- **Offline JSON Log** — every chosen route can be saved to a local JSON store for later analysis.
+- **Long-Term Weather Predictions** - explore climate projections out to **2100** (via external datasets).
+- **Hyper-Local, Trail-Specific** - click a trail to see conditions at that spot.
+- **Interactive Map** - smooth search and explore experience powered by **Mapbox GL JS**.
+- **Wildlife & Safety** - room for location-aware alerts (extensible).
+- **Offline JSON Log** - every chosen route can be saved to a local JSON store for later analysis.
 
 ---
 
 ## 🗺️ Live Flow (local)
 
 1. Open the **Welcome** page (index)  
-2. Click **Continue** → Map page  
+2. Click **Continue** -> Map page  
 3. Search a city/area (e.g., “Waterloo”)  
 4. Nearby **hiking trails** load automatically  
-5. Click a trail → it draws on the map and a bottom sheet opens with **NASA** weather for the selected date
+5. Click a trail -> it draws on the map and a bottom sheet opens with **NASA** weather for the selected date
 
-> NASA POWER daily data is near-real-time, not a forecast. Very recent dates may be empty — try a date **1–2 days earlier**.
+> NASA POWER daily data is near-real-time, not a forecast. Very recent dates may be empty - try a date **1-2 days earlier**.
 
 ---
 
